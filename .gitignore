@@ -71,7 +71,7 @@ bower_components
 # Editors
 .idea
 *.iml
-
+git c
 # Ignore built ts files
 dist/**/*
 
